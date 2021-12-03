@@ -1,2 +1,4 @@
 # VL_Repo
-Task for Victory Link
+Text files in Path (VL_API/Service)
+Please before run angular Project write command * npm i *
+
