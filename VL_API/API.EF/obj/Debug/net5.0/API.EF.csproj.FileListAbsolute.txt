@@ -1,0 +1,17 @@
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.EF.deps.json
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.EF.runtimeconfig.json
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.EF.runtimeconfig.dev.json
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.EF.dll
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\ref\API.EF.dll
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.EF.pdb
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.core.dll
+D:\VictoryLink\VL_API\API.EF\bin\Debug\net5.0\API.core.pdb
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.csproj.AssemblyReference.cache
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.AssemblyInfoInputs.cache
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.AssemblyInfo.cs
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.csproj.CoreCompileInputs.cache
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.dll
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\ref\API.EF.dll
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.pdb
+D:\VictoryLink\VL_API\API.EF\obj\Debug\net5.0\API.EF.genruntimeconfig.cache

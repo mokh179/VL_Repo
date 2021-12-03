@@ -1,0 +1,12 @@
+D:\VictoryLink\VL_API\API.core\bin\Debug\net5.0\API.core.deps.json
+D:\VictoryLink\VL_API\API.core\bin\Debug\net5.0\API.core.dll
+D:\VictoryLink\VL_API\API.core\bin\Debug\net5.0\ref\API.core.dll
+D:\VictoryLink\VL_API\API.core\bin\Debug\net5.0\API.core.pdb
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.csproj.AssemblyReference.cache
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.AssemblyInfoInputs.cache
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.AssemblyInfo.cs
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.csproj.CoreCompileInputs.cache
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.dll
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\ref\API.core.dll
+D:\VictoryLink\VL_API\API.core\obj\Debug\net5.0\API.core.pdb
