@@ -1,0 +1,24 @@
+<div  style="height: 60px; background-color: black; color: blue;">
+    <div class="container">
+        <h3>Victory Link</h3>
+    </div>
+    
+</div>
+<div class="container my-3">
+    <table class="table table-info">
+        <thead>
+        <tr>
+        <th>Request Number</th>
+        <th>Mobile Number</th>
+        <th>Request Date</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let item of Requests">
+        <td>{{item.requestID}}</td>
+        <td>{{item.mobileNumber}}</td>
+        <td>{{item.requestDate |date}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
